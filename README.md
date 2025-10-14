@@ -1,7 +1,9 @@
-# Tp-01
-Exploring free and open-source software
-*group de tp 1
-**Benzaid Alia 
-***djafri youssra 
-****said djihane 
-*****Meriem khouloud
+## Tp-01
+
+Exploration des logiciels libres et open source  
+**Groupe de TP1 :**  
+
+- Benzaïd Alia  
+- Djafri Youssra  
+- Sald Djihane  
+- Meriem Kholoud
